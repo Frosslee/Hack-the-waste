@@ -36378,7 +36378,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-sheet-1 {
   min-height: 95px;
-  margin: 0 auto;
 }
 
 .u-header .u-image-1 {
@@ -36496,7 +36495,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-position-2 {
-  height: auto;
   min-height: 124px;
   width: 320px;
   margin: 0;
@@ -36562,6 +36560,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-position-2 {
+    height: auto;
     width: 173px;
   }
 
