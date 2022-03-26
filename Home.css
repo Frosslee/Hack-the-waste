@@ -10,7 +10,7 @@
 .u-section-1 .u-image-1 {
   width: 325px;
   height: 325px;
-  background-image: url("images/Acrobat_fGW69PKGjr-15.png");
+  background-image: url("images/Acrobat_fGW69PKGjr.png");
   background-position: 50% 50%;
   margin: 108px auto 0;
 }
@@ -1019,6 +1019,9 @@
 
 .u-block-bb31-4 {
   position: absolute;
+  width: 65px;
+  height: 65px;
+  left: auto;
   right: 0;
 }
 
