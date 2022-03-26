@@ -10,7 +10,7 @@
 .u-section-1 .u-image-1 {
   width: 325px;
   height: 325px;
-  background-image: url("images/Acrobat_fGW69PKGjr-10.png");
+  background-image: url("images/c9a908c4-bd99-6394-910e-a6f4458f39de.jpg");
   background-position: 50% 50%;
   margin: 108px auto 0;
 }
@@ -487,19 +487,13 @@
   margin: 0 1px;
 }
 
-.u-section-5 .u-text-2 {
-  line-height: 2;
-  font-size: 1.125rem;
-  margin: 20px 2px 0 0;
-}
-
 .u-section-5 .u-btn-1 {
   letter-spacing: 3px;
   border-style: none;
   font-size: 0.875rem;
   font-weight: 600;
   text-transform: uppercase;
-  margin: 19px auto 0 1px;
+  margin: 20px auto 0 1px;
   padding: 16px 30px;
 }
 
@@ -523,10 +517,6 @@
 
   .u-section-5 .u-text-1 {
     margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-5 .u-text-2 {
     margin-right: 0;
   }
 
